@@ -18,6 +18,7 @@
     <repositories>
         <repository>
             <id>snapshots-repo</id>
+            <name>snapshots-repo</name>
             <url>https://s01.oss.sonatype.org/content/repositories/snapshots/</url>
         </repository>
     </repositories>
